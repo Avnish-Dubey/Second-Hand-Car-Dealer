@@ -1,2 +1,2 @@
 # Second-Hand-Car-Dealer 
-### Using SQL
+ Using SQL &amp;
