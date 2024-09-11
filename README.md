@@ -80,23 +80,6 @@ The following SQL queries were used to answer the questions posed:
    WHERE year BETWEEN 2015 AND 2023;
    ```
 
-### Getting Started
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/yourusername/second-hand-car-dealer-sql.git
-   ```
-
-2. **Navigate to the Project Directory**:
-   ```bash
-   cd second-hand-car-dealer-sql
-   ```
-
-3. **Set Up MySQL**:
-   Ensure you have MySQL installed and set up. Import the dataset into your MySQL database to run the queries.
-
-4. **Run the Queries**:
-   Use MySQL Workbench or any SQL client to execute the provided queries and analyze the results.
 
 ### Results
 
